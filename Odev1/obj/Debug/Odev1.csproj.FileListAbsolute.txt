@@ -1,0 +1,9 @@
+C:\Users\hp\Desktop\yazılımyapımı\Odev1\Odev1\bin\Debug\Odev1.exe.config
+C:\Users\hp\Desktop\yazılımyapımı\Odev1\Odev1\bin\Debug\Odev1.exe
+C:\Users\hp\Desktop\yazılımyapımı\Odev1\Odev1\bin\Debug\Odev1.pdb
+C:\Users\hp\Desktop\yazılımyapımı\Odev1\Odev1\obj\Debug\Odev1.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\yazılımyapımı\Odev1\Odev1\obj\Debug\Odev1.Form1.resources
+C:\Users\hp\Desktop\yazılımyapımı\Odev1\Odev1\obj\Debug\Odev1.Properties.Resources.resources
+C:\Users\hp\Desktop\yazılımyapımı\Odev1\Odev1\obj\Debug\Odev1.csproj.GenerateResource.Cache
+C:\Users\hp\Desktop\yazılımyapımı\Odev1\Odev1\obj\Debug\Odev1.exe
+C:\Users\hp\Desktop\yazılımyapımı\Odev1\Odev1\obj\Debug\Odev1.pdb
